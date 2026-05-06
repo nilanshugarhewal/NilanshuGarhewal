@@ -6,7 +6,7 @@ Hi, I’m Nilanshu Garhewal, and I specialize in building clean, efficient, and 
 
 ### Socials:
 LinkedIn: https://www.linkedin.com/in/nilanshugarhewal/  
-Naukri.com: [https://www.naukri.com/in/nilanshugarhewal/  ](https://www.naukri.com/mnjuser/profile?id=&altresid)
+Naukri.com: [https://www.naukri.com/in/nilanshugarhewal/  ](https://www.naukri.com/mnjuser/profile?id=&altresid)  
 Email: nilanshugarhewal1@gmail.com
 
 ### Tech Stack:
