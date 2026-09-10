@@ -22,5 +22,5 @@ Email: nilanshugarhewalwork@gmail.com
 ### Tech Stack:
 **Web:** React JS, Next JS, CSS, SCSS  
 **Programming:** JavaScript, TypeScript, Java  
-**Database:** PostgreSQL
+**Database:** PostgreSQL  
 **Tools:** Git, GitHub, Figma  
